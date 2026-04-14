@@ -68,7 +68,7 @@ There's a demo that walks through the full track record. If you've been where I 
 **Persona:** The Gold Believer
 **Trigger:** Gold Trust / Safe Haven
 **Why This Should Win:** Opens a completely different conversation for investors who already trust gold but have never thought of it as yield-generating. The "you own it wrong" hook is provocative without being insulting. Gary's composed authority sells the upgrade rather than the replacement.
-**Status:** Approved
+**Status:** Sent to Docs
 
 If you already own gold, you probably own it wrong.
 
