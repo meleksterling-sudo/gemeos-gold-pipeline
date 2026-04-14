@@ -12,25 +12,25 @@ Scripts are generated daily at 5am Bogota time. Review each script and change **
 **Product:** GOLD
 **Format:** Selfie
 **Mode:** Direct
-**Creator:** Eric
+**Creator:** Eric & Gary
 **Persona:** The Busy Professional
 **Trigger:** Effort Elimination
 **Why This Should Win:** Busy professionals with capital respond to "zero cognitive load" framing — not just time savings, but mental bandwidth. The business-owner P&L framing is a novel entry point that skips the typical "passive income" cliché. Strong proof anchors without becoming a data dump.
-**Status:** Pending Review
+**Status:** Approved
 
 I've been building businesses for fifteen years. Every income stream I've ever had required something from me — time, decisions, attention. Charts to watch. Orders to place. Something.
 
 This one doesn't.
 
-About a year ago I found an AI system that trades Gold. Not Forex. Gold. And my job is literally nothing. My account connects to the master account, and when the algorithm makes a trade, mine mirrors it automatically. Its Copy trading, it runs automatically
+About a year ago I found an AI system that trades Gold. And my job is literally nothing. My account connects to the master account, and when the algorithm makes a trade, mine mirrors it automatically. Its Copy trading, it runs automatically
 
-Before I put a dollar in, I looked at the data. Two years of verified live trades on MyFXBook — not a backtest, actual trades. 10% average monthly returns. 80% win rate across 784 trades. One losing month in two years — June of last year, down 1.63%.
+Before I put a dollar in, I looked at the data. Two years of verified live trades on MyFXBook — not a backtest, actual trades. 10% average monthly returns. 80% win rate across 784 trades. Only 1 losing month in 2 years 
 
-US-regulated broker. My capital stays in my own brokerage account, not pooled anywhere. I can stop the system whenever I want.
+My capital stays in my own brokerage account, not pooled anywhere. I can stop the system whenever I want.
 
 The S&P had bigger drawdowns in a single quarter than this system's had in two years.
 
-If you want to see exactly what the track record looks like before doing anything, there's a demo in the link. That's where I'd start.
+If you want to see exactly what the track record looks like before doing anything, just click the link below to book a demo
 
 ---
 
@@ -50,7 +50,7 @@ I told myself I was building something. But honestly, I was just anxious. Watchi
 
 I stopped trading. The stress wasn't worth it. But I still had capital sitting there doing nothing — and that bothered me too.
 
-Someone sent me a link to an AI algorithm that trades Gold. I was tired enough that I actually read the whole thing instead of dismissing it.
+Someone sent me a link to an AI algorithm named Gemeos that trades Gold. I was tired enough that I actually read the whole thing instead of dismissing it.
 
 Two years of verified trades. Third-party verified on MyFXBook — not a pitch deck, actual trade history anyone can look up. Only 1 losing month across 24 months. All the drawdown numbers, right there.
 
@@ -208,21 +208,23 @@ If you've heard too many promises, start with the MyFXBook record. Not the websi
 **Persona:** The Busy Professional
 **Trigger:** Effort Elimination
 **Why This Should Win:** Framed around mental bandwidth — not just time — this hits a different nerve than standard "passive income" messaging. The "between calls on a Tuesday" CTA is specific and believable, matching Alison's real-world pace. Contrast with attention-heavy alternatives is implied without being preachy.
-**Status:** Pending Review
+**Status:** Approved
 
 I don't have bandwidth for another thing that needs my attention.
 
 I run a company. Every decision I make costs something — focus, energy, time. I'm protective of all three. So when someone pitches me a trading system that requires me to "spend 20 minutes a day on charts," I'm already out.
 
-This one I actually looked at.
+But this one I actually looked at, becasue its a copy trading system
 
-Copy trading. My account connects to the master account. When the AI places a trade in Gold, mine mirrors it. I don't log in to approve anything. I don't watch charts. I don't get alerts I need to act on. It just runs.
+My account just connects to the master account. When the AI places a trade in Gold, mine mirrors it. I don't log in to approve anything. I don't watch charts. I don't get alerts I need to act on. It just runs.
 
-Two years of verified performance on MyFXBook. 10% average monthly returns. One losing month in 24 — down 1.63%. The trading runs through a US-regulated broker, so my capital stays in my own account. I can stop the system whenever I want.
+The results? 10% average monthly returns. Only 1 losing month in 24 — performance all third party verified The trading runs through my own brokerage account, so my capital stays with me at all time. I can stop the system whenever I want.
 
 If there's a risk event, the team has human oversight running alongside the AI. It's not a black box doing whatever it wants.
 
-I checked the demo on a Tuesday morning between calls. Took about 20 minutes. That's probably all you need too.
+Click below and schedule a demo. They'll show you the system, its performance — and you'll understand why it takes zero of your attention.
+
+
 
 ---
 
@@ -234,7 +236,7 @@ I checked the demo on a Tuesday morning between calls. Took about 20 minutes. Th
 **Persona:** The Gold Believer
 **Trigger:** Gold Trust / Safe Haven
 **Why This Should Win:** "I already trusted Gold, I just didn't know it could work" is a completely fresh conversion story for long-term gold holders who've never thought past price appreciation. The emotional beat — Gold finally doing something — is satisfying for an audience already invested in the asset thesis. ⚠️ Jared should play this as genuine discovery, not pitch.
-**Status:** Pending Review
+**Status:** Approved
 
 ⚠️
 
@@ -244,13 +246,13 @@ But it never did anything for me. It just sat there.
 
 When someone explained that there was an AI algorithm actively trading Gold — not holding it, actually trading it — I paid attention differently than I would have with most pitches. Because I already trusted the underlying asset. I just thought "actively trading gold" was something hedge funds did, not something I could access.
 
-Two years of verified trades on MyFXBook. 10% average monthly returns. 80% win rate across 784 trades. Total gain since launch: over a thousand percent. One losing month across 24 months — down 1.63%.
+Gemeos - Two years of verified trades on MyFXBook. 10% average monthly returns. 80% win rate across 784 trades. Total gain since launch: over a thousand percent. Only 1 losing month in 24 months
 
-US-regulated broker. My capital stays in my own account. Copy trading: the algorithm trades, mine mirrors it automatically. No orders. No charts.
+My capital stays in my own account. Its copy trading: the algorithm trades, mine mirrors it automatically. No orders. No charts.
 
 I already believed in gold. I just didn't know it could generate returns while it ran.
 
-There's a demo in the link that shows the full track record. If you're already a gold holder, it's a different conversation than you're expecting.
+Click below to schedule a demo, so you can see the verified track record for yourself.
 
 ---
 
